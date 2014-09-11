@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Earning my first green square!
+Earning my first green square using GitHub's [Hello World](https://guides.github.com/activities/hello-world/) Guide!
